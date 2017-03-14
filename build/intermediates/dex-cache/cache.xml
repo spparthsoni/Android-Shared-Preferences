@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\LearningAndroid\SharedPreferences\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e95ccecaaeb57ad071c94f2bcb01be906a27894f">
+        <dex dex="D:\LearningAndroid\SharedPreferences\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_61067f7c2dba1f2aa3d7415617a8b9ac9021dcae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PC\.android\build-cache\a147bc898cd6d18c129226edd10c141c0c682c2c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\LearningAndroid\SharedPreferences\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9ff0752c391b359f88b1597fb4ba6a87cd3d3a27\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LearningAndroid\SharedPreferences\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="D:\LearningAndroid\SharedPreferences\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_26aba372599602001912cf8d7d872a3b321757bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PC\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\LearningAndroid\SharedPreferences\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_50000ec24da4c7d016ffa2f6da0526fd3873345c\classes.dex" />
+    </item>
+
+</items>
